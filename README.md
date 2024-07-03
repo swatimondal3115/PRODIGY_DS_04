@@ -13,5 +13,14 @@ This repository contains scripts and tools for conducting sentiment analysis on 
 1.Prepare your social media data in a suitable format (CSV, JSON, etc.).
 2.Use the provided scripts (analyze_sentiment.py, visualize_sentiment.py, etc.) to analyze and visualize sentiment patterns.
 
+##### Files:
+Sentimental.ipynb:Exploratory daata analysis and visualization are contained in this file.
+twitter_validation: This is the data of twitter validation from the main dataset.
+
+##### source:
+The main dataset in from Sample Dataset :-
+
+https://www.kaggle.com/datasets/jp797498e/twitter- entity-sentiment-analysis.
+
 
 
